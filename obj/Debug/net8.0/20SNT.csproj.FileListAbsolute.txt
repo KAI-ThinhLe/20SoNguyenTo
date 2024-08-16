@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\bin\Debug\net8.0\20SNT.exe
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\bin\Debug\net8.0\20SNT.deps.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\bin\Debug\net8.0\20SNT.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\bin\Debug\net8.0\20SNT.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\bin\Debug\net8.0\20SNT.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\20SNT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\20SNT.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\20SNT.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\20SNT.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\20SNT.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\refint\20SNT.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\20SNT.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\20SNT.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\20SNT\obj\Debug\net8.0\ref\20SNT.dll
